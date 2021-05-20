@@ -6,6 +6,8 @@ My name is Yash Bonde, AI researcher. Get to know more at [KS2Labs](https://gith
 
 **Code**: I have a bunch of functions I use everyday, [daily.py](https://gist.github.com/yashbonde/62df9d16858a43775c22a6af00a8d707)
 
+<hr>
+
 Here is a meme on AI
 
 <img src="https://i.imgur.com/NFe4C3U.jpg" height=400px>
