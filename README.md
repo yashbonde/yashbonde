@@ -8,5 +8,5 @@ My name is Yash Bonde, AI researcher. Get to know more at [KS2Labs](https://gith
 
 Here is a meme on AI
 
-<!-- <img src="https://i.imgur.com/NFe4C3U.jpg" height=400px> -->
-<img src="https://memeguy.com/photos/images/what-ai-actually-is-327606.jpg" height=400px>
+<img src="https://i.imgur.com/NFe4C3U.jpg" height=400px>
+<!-- <img src="https://memeguy.com/photos/images/what-ai-actually-is-327606.jpg" height=400px> -->
