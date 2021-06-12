@@ -4,7 +4,7 @@ My name is Yash Bonde, AI researcher. Get to know more at [KS2Labs](https://gith
 
 **Experience**: Worked in all domains of deep learning CV, NLP, Documents, Audio and now working in RL and industry applied AI. I regularly [blog](https://yashbonde.github.io/musings.html) on topics that interest me. Open for freelancing gigs, connect on my [LinkedIn](https://www.linkedin.com/in/yash-bonde/).
 
-**Gists**: Over the years, I think gists are what will define human.
+**Gists**: Over the years, I think gists are what will define human culture. (And, in all probability, human civilization.).
 
 - `62df9d16858a43775c22a6af00a8d707` I have a bunch of functions I use everyday, [daily.py](https://gist.github.com/yashbonde/62df9d16858a43775c22a6af00a8d707)
 - `cadb515b6c658f18147d948fac685c7b` Make GPT generation chill, [gpt.py](https://gist.github.com/yashbonde/cadb515b6c658f18147d948fac685c7b)
