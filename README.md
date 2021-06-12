@@ -6,8 +6,22 @@ My name is Yash Bonde, AI researcher. Get to know more at [KS2Labs](https://gith
 
 **Gists**: Over the years, I think gists are what will define human.
 
-- I have a bunch of functions I use everyday, [daily.py](https://gist.github.com/yashbonde/62df9d16858a43775c22a6af00a8d707)
-- Make GPT generation chill, [gpt.py](https://gist.github.com/yashbonde/cadb515b6c658f18147d948fac685c7b)
+- `62df9d16858a43775c22a6af00a8d707` I have a bunch of functions I use everyday, [daily.py](https://gist.github.com/yashbonde/62df9d16858a43775c22a6af00a8d707)
+- `cadb515b6c658f18147d948fac685c7b` Make GPT generation chill, [gpt.py](https://gist.github.com/yashbonde/cadb515b6c658f18147d948fac685c7b)
+
+How to get any gist:
+
+```python
+def get_gist(id):
+  import requests, json
+  d = json.loads(requests.get(f"https://api.github.com/gists/{id}").content.decode("utf-8"))
+  for file_name in d["files"]: # save all the files exactly like on your gist
+    with open(file_name, "w") as f:
+      print("Writing:", file_name)
+      f.write(d["files"][file_name]["content"])
+        
+get_gist(id_from_above)
+```
 
 <hr>
 
