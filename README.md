@@ -23,6 +23,8 @@ def get_gist(id):
 get_gist(id_from_above)
 ```
 
+**Some Reading List**: [Notion](https://www.notion.so/nimblebox/NBX-Reading-List-7bee4b69363c4cd99aad9891dd4cf544)
+
 <hr>
 
 Here is a meme on AI
