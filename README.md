@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-My name is Yash Bonde, AI researcher @ [Tune AI](https://tunehq.ai).
+My name is Yash Bonde, Software Engineer @ [Ema Unlimited](https://ema.co)
+
+Prev:
+1. Head of research at [Tune AI](https://tunehq.ai).
 
 **Experience**: Worked in all domains of deep learning CV, NLP, Documents, Audio and now working in RL and industry applied AI. I regularly [blog](https://yashbonde.github.io/musings.html) on topics that interest me. Open for freelancing gigs, connect on my [LinkedIn](https://www.linkedin.com/in/yash-bonde/).
 
