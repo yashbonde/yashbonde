@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-My name is Yash Bonde, Software Engineer @ [Ema Unlimited](https://ema.co)
+My name is Yash Bonde.
 
-Prev:
-1. Head of research at [Tune AI](https://tunehq.ai).
+AI Researcher.
 
-**Experience**: Worked in all domains of deep learning CV, NLP, Documents, Audio and now working in RL and industry applied AI. I regularly [blog](https://yashbonde.github.io/musings.html) on topics that interest me. Open for freelancing gigs, connect on my [LinkedIn](https://www.linkedin.com/in/yash-bonde/).
+* Software Engineer @ [Ema Unlimited](https://ema.co)
+* Head of research at [Tune AI](https://tunehq.ai).
 
-I used to stream my work on [YouTube](https://www.youtube.com/playlist?list=PLDwlXbwbl9GN4byp44SmqzrRGwHNbUqg3).
+**Experience**: Worked in all domains of deep learning CV, NLP, Documents, Audio and now working in RL and industry applied AI. I regularly [blog](https://yashbonde.com) on topics that interest me. Open for freelancing gigs, connect on my [LinkedIn](https://www.linkedin.com/in/yash-bonde/).
+
+I sometimes keep yapping on [YouTube](https://www.youtube.com/playlist?list=PLDwlXbwbl9GN4byp44SmqzrRGwHNbUqg3).
 
 You should also check out the largest collection of `utils` I've built over years in [`tuneapi.utils`](https://github.com/NimbleBoxAI/tuneapi/tree/main/tuneapi/utils)
 
