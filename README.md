@@ -2,7 +2,7 @@
 
 My name is Yash Bonde.
 
-AI Researcher.
+AI Researcher, [Project अर्थ (Artha)](https://artha-pearl.vercel.app)
 
 * Software Engineer @ [Ema Unlimited](https://ema.co)
 * Head of research at [Tune AI](https://tunehq.ai).
