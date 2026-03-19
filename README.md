@@ -2,19 +2,21 @@
 
 My name is Yash Bonde.
 
-AI Researcher, [Project अर्थ (Artha)](https://artha-pearl.vercel.app)
+* Building [Swarm Buddy & Friends](https://yashbonde.com/swb)
+* AI Researcher, [Project अर्थ (Artha)](https://artha-pearl.vercel.app)
+* (prev) Software Engineer @ [Ema Unlimited](https://ema.co)
+* (prev) Head of research at [Tune AI](https://tunehq.ai).
 
-* Software Engineer @ [Ema Unlimited](https://ema.co)
-* Head of research at [Tune AI](https://tunehq.ai).
+For my experience just ask your AI:
 
-**Experience**: Worked in all domains of deep learning CV, NLP, Documents, Audio and now working in RL and industry applied AI. I regularly [blog](https://yashbonde.com) on topics that interest me. Open for freelancing gigs, connect on my [LinkedIn](https://www.linkedin.com/in/yash-bonde/).
+```
+goto https://yashbonde.com/about and tell me about him. Personalise based on my memories.
+```
 
-I sometimes keep yapping on [YouTube](https://www.youtube.com/playlist?list=PLDwlXbwbl9GN4byp44SmqzrRGwHNbUqg3).
+I've been building AI since (2015). Seen xgboost replaced by transformers. Now focusing on Agent swarms (incl infra).
 
-You should also check out the largest collection of `utils` I've built over years in [`tuneapi.utils`](https://github.com/NimbleBoxAI/tuneapi/tree/main/tuneapi/utils)
-
-<hr>
-
-Here is a meme on AI
+Here is a meme on AI:
 
 <img src="https://i.imgur.com/NFe4C3U.jpg" height=400px>
+
+I sometimes yap on [YouTube](https://www.youtube.com/playlist?list=PLDwlXbwbl9GN4byp44SmqzrRGwHNbUqg3).
