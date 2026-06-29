@@ -2,7 +2,7 @@
 
 My name is Yash Bonde.
 
-* AI Engineer, Founder's office [Razorpay]([https://yashbonde.com/swb](https://razorpay.com/)
+* AI Engineer, Founder's office [Razorpay](https://razorpay.com/)
 * (prev) Building [Swarm Buddy & Friends](https://yashbonde.com/swb)
 * AI Researcher, [Project अर्थ (Artha)](https://artha-pearl.vercel.app)
 * (prev) Software Engineer @ [Ema Unlimited](https://ema.co)
